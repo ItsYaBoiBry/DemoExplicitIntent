@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo Explicit Intent</string>
+    <string name="stringSuperman">Superman</string>
+    <string name="StringBatman">Batman</string>
+    <string name="superheroLabel">Superhero:</string>
+    <string name="strengthLabel">Strength:</string>
+    <string name="technical_prowessLabel">Technical Prowess:</string>
+    <string name="likeBtnLabel">Like</string>
+    <string name="DislikeBtnLabel">Dislike</string>
+</resources>
